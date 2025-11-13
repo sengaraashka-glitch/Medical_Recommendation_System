@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vaibhav Sahu
+# Hi 👋, I'm Aashka Sengar
 
 ## 🌟 Medical Recommendation System
 A smart, AI-powered system that recommends personalized medical treatments, diagnoses, and health advice based on symptoms, medical history, and user data.
@@ -37,7 +37,4 @@ A smart, AI-powered system that recommends personalized medical treatments, diag
 ```bash
 medical-recommendation/
 ├── client/         # React frontend
-├── server/         # Node + Python API
-├── models/         # ML files (.pkl, .h5)
-├── data/           # Medical datasets
-└── README.md
+├── server/
