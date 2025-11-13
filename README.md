@@ -33,6 +33,8 @@ A smart, AI-powered system that recommends personalized medical treatments, diag
 * Integrate wearable health data (Fitbit, Apple Watch).
 * Expand to chronic disease management.
 
+### Live Deployment http://127.0.0.1:5000
+
 ### 📂 Code Structure
 ```bash
 medical-recommendation/
@@ -40,4 +42,3 @@ medical-recommendation/
 ├── server/
 
 
-Live Deployment  :  -    http://127.0.0.1:5000
