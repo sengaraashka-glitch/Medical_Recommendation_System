@@ -38,3 +38,6 @@ A smart, AI-powered system that recommends personalized medical treatments, diag
 medical-recommendation/
 ├── client/         # React frontend
 ├── server/
+
+
+Live Deployment  :  -    http://127.0.0.1:5000
